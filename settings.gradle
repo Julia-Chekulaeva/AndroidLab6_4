@@ -3,8 +3,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "AndroidLab6_3"
+rootProject.name = "AndroidLab6_4"
 include ':app'
